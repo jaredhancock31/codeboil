@@ -1,0 +1,4 @@
+baseURL = "http://codeboil.io/"
+languageCode = "en-us"
+title = "Code Boil"
+theme = "solar-theme-hugo"
